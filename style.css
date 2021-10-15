@@ -1,0 +1,41 @@
+
+
+
+
+.nav{
+    background-color: rgb(51, 49, 49);
+    min-height: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 5px;
+
+}
+
+.nav-title {
+    font-size: 25px;
+    margin-left: 10px;
+    color: white;
+}
+
+.nav-links {
+    color: white;
+    font-size: 15px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 1.5em;
+    margin-right: 10px;
+ }
+
+ .active{
+     color: white;
+ }
+ .gray{
+     color:gray;
+ }
+
+.btn {
+    background-color:rgb(58, 165, 192);
+    color: white;
+}
